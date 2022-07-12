@@ -2,7 +2,7 @@
 
 #### 프론트도 백도 모두 진배없음!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansubstance&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSubstance&show_icons=true&count_private=true&theme=radical)
 
 <!--
 **VanSubstance/Vansubstance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
