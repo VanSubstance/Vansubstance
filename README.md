@@ -5,14 +5,14 @@
 #### Languages / Framework / mastery
 
 ##### 사람 | Human 👷‍♂️
+- 거시적인 요구사항이 주어져도 구현이 가능한 수준
+  - JavaScript, TypeScript, Java
+  - NodeJS, ReactJS, NextJS, Express, Spring MVC
+  - Eclipse, Android Studio
 
 ##### 유인원 | Apes 🐵
-- JavaScript, TypeScript, Java
-- NodeJS, ReactJS, NextJS, Express, Spring MVC
-- Eclipse, Android Studio
-
-##### 조류 | Bird 🐔
-- Python, Kotlin
+- 구체적인 기술적 요구사항이 주어졌을 때 구현이 가능한 수준
+  - Python, Kotlin
 
 ---
 #### Extra Programs 🤔
