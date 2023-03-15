@@ -1,5 +1,5 @@
-## Substance, Van 🔑
-### 정도를 걷고픈 개발자 🛳
+## 반물질 | Substance, Van 🔑
+### 정도를 걷고픈 개발자 | Developer eagering on Right track 🛳
 
 ---
 #### Languages / Framework / mastery
@@ -15,7 +15,7 @@
   - Python, Kotlin
 
 ---
-#### Extra Programs 🤔
+#### 기타 프로그램 (코딩이 아님) | Extra Programs (Not relevant with Coding)🤔
 - Figma, Slack, Notion
 
 ---
