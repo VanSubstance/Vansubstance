@@ -1,5 +1,6 @@
 ## 반물질 | Substance, Van 🔑
 ### 정도를 걷고픈 개발자 | Developer eagering on Right track 🛳
+#### C# + Unity 기반 클라이언트 개발에 뜻을 두고 있습니다. 
 
 ---
 ![vansubstance github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=vansubstance)
