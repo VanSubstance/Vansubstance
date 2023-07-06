@@ -2,13 +2,19 @@
 ### 정도를 걷고픈 개발자 | Developer eagering on Right track 🛳
 
 ---
+![vansubstance github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=vansubstance)
+
+---
+![vansubstance github-trophies](https://stats.hyochan.dev/api/github-trophies?login=vansubstance)
+
+---
 #### Languages / Framework / mastery
 
 ##### 사람 | Human 👷‍♂️
 - 거시적인 요구사항이 주어져도 구현이 가능한 수준
   - JavaScript, TypeScript, Java, C#
-  - NodeJS, ReactJS, NextJS, Express, Spring MVC
-  - Eclipse, Android Studio, Unity
+  - NodeJS, ReactJS, NextJS, Express
+  - Android Studio, Unity
 
 ##### 유인원 | Apes 🐵
 - 구체적인 기술적 요구사항이 주어졌을 때 구현이 가능한 수준
