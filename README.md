@@ -1,7 +1,7 @@
 ## 반물질 | Substance, Van 🔑
 ### 정도를 걷고픈 개발자 | Developer eagering on Right track 🛳
 #### 프론트 <-> 백 포함 전체 시퀀스 단위의 구현에 관심이 있습니다.
-#### C# + Unity 기반 클라이언트 개발에 뜻을 두고 있습니다. 
+#### C# + Unity 기반 클라이언트 개발에 관심이 있습니다. 
 
 ---
 ![vansubstance github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=vansubstance)
